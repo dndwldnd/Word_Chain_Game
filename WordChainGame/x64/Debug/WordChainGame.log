@@ -1,0 +1,8 @@
+﻿  ClientSocket.cpp
+  InGameDlg.cpp
+  WordChainGame.cpp
+  WordChainGameDlg.cpp
+C:\Users\이가은\source\repos\끝말잇기\WordChainGame\WordChainGameDlg.cpp(9,30): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\이가은\source\repos\끝말잇기\WordChainGame\InGameDlg.cpp(57): warning C4717: 'CInGameDlg::OnBnClickedAddBtn2': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  WordChainGame.vcxproj -> C:\Users\이가은\source\repos\끝말잇기\x64\Debug\WordChainGame.exe
