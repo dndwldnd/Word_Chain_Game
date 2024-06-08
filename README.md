@@ -26,16 +26,13 @@
 
 # 🔳​ View
 ### 서버 접속 / 회원가입 화면
-
+![화면1](https://github.com/gaeun120312/Word_Chain_Game/assets/92353486/0dafe99c-7519-4103-9020-3e577619d1c2)
+![화면2](https://github.com/gaeun120312/Word_Chain_Game/assets/92353486/9ce060cb-4356-4fed-93d1-6bdf97af7078)
 - IP 주소와 포트번호 입력 후 서버 접속
 - ID, PASSWORD 입력 후 회원가입 후 준비
 
 ### 끝말잇기 게임 화면 / 게임 결과 화면
-
-- 
-
+![화면3](https://github.com/gaeun120312/Word_Chain_Game/assets/92353486/a3ab69f8-bcea-4086-9a39-d8d68e3a1d56)
+![화면4](https://github.com/gaeun120312/Word_Chain_Game/assets/92353486/0451167b-cd1f-4450-8f0d-76a480aac047)
 
 </br>
-
-# ❗ 느낀점
-- ㅇ
